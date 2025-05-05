@@ -29,4 +29,4 @@ python guess_num.py
 
 🧑‍💻 作者
 
-Masaakiiihttps://github.com/Masaakiii
+[Masaakiii](https://github.com/Masaakiii)
